@@ -1,3 +1,4 @@
+网状博客，基于paicoding二次开发，虽然遥远的目标是完全不同的。
 <p align="center">
   <a href="https://paicoding.com/">
     <img src="https://cdn.tobebetterjavaer.com/images/README/1681354262213.png" alt="技术派" width="400">
